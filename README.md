@@ -1,6 +1,6 @@
 # Xingtai Community Happiness Index｜邢台小区幸福指数
 
-![Qiaoxi business district, Zhongxing West Street, Xingtai City](https://commons.wikimedia.org/wiki/Special:FilePath/Qiaoxi%20business%20district%2C%20Zhongxing%20West%20Street%2C%20Xingtai%20City%2C%202020.jpg)
+![Xingtai Crouching Cow Sculpture Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Xingtai_Crouching_Cow_Sculpture_Banner.jpg/1280px-Xingtai_Crouching_Cow_Sculpture_Banner.jpg)
 
 Image credit: Wcr1993 / Wikimedia Commons / CC BY-SA 4.0
 
@@ -39,7 +39,7 @@ This project was created to help organize those factors in a structured way, esp
 
 By combining these aspects, the project provides a broader view of residential quality and local livability.
 
-![Xingtai railway station](https://commons.wikimedia.org/wiki/Special:FilePath/Xingtai%20station%20at%20the%20end%20of%202020.jpg)
+![Xingtai station building and station square in 2020](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Xingtai_station_building_and_station_square_in_2020.jpg/1280px-Xingtai_station_building_and_station_square_in_2020.jpg)
 
 Image credit: Wcr1993 / Wikimedia Commons / CC BY-SA 4.0
 
@@ -59,7 +59,7 @@ The Xingtai Community Happiness Index considers the following dimensions:
 
 These dimensions are intended to reflect real residential experience rather than short-term market attention.
 
-![South Gate of Xingtai public bicycle historical and Cultural Park](https://commons.wikimedia.org/wiki/Special:FilePath/South%20Gate%20of%20Xingtai%20public%20bicycle%20historical%20and%20Cultural%20Park.jpg)
+![Dakaiyuan Temple in Xingtai](https://upload.wikimedia.org/wikipedia/commons/1/10/Dakaiyuan_Temple_in_Xingtai.jpg)
 
 Image credit: Wcr1993 / Wikimedia Commons / CC BY-SA 4.0
 
@@ -78,7 +78,7 @@ The project may include or reference residential communities and local housing a
 
 These examples are used to describe local residential patterns and community-level living experience in Xingtai.
 
-![Xingtai Museum](https://commons.wikimedia.org/wiki/Special:FilePath/Xingtai%20Museum%20%2820220503%29.jpg)
+![Xingtai Museum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Xingtai_Museum_%2820220503%29.jpg/1280px-Xingtai_Museum_%2820220503%29.jpg)
 
 Image credit: Wcr1993 / Wikimedia Commons / CC BY-SA 4.0
 
